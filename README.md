@@ -48,7 +48,7 @@ The analysis identified `LastPurchaseDaysAgo` as the most influential feature in
 
 ## Key Business Insights
 
-- Overall customer churn rate: **56.65%**
+- Overall customer churn rate: **60.25%**
 - Highest churn age group: **36–45 years (60.26%)**
 - Highest churn membership group: **0–6 months (58.62%)**
 - Highest churn recency group: **91–180 days (63.43%)**
