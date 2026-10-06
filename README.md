@@ -84,3 +84,29 @@ This project demonstrates how Python, data analysis, visualization, and machine 
 ## Author
 
 **Amar Mayengbam**
+## Key Results
+
+- Overall customer churn rate: **56.65%**
+- Best performing model: **Logistic Regression**
+- Model accuracy: **57.25%**
+- ROC-AUC: **0.600**
+- Most influential feature: **LastPurchaseDaysAgo**
+- Highest churn age group: **36–45 years (60.26%)**
+- Highest churn membership group: **0–6 months (58.62%)**
+- Highest churn recency group: **91–180 days (63.43%)**
+
+## Customer Churn Distribution
+
+![Customer Churn Distribution](customer_churn_distribution.png)
+
+## Business Recommendations
+
+1. Target customers with long purchase gaps using personalized offers and re-engagement campaigns.
+2. Improve onboarding and early-stage support for new members.
+3. Use targeted loyalty programs for customers aged 36–45.
+4. Address repeated customer support issues quickly.
+5. Use purchase recency as an early warning signal for potential churn.
+
+## Project Outcome
+
+This project demonstrates how Python, Pandas, Matplotlib, Seaborn, and Scikit-learn can be used to analyze customer churn, identify important customer behavior patterns, and build a basic machine-learning prediction model.
