@@ -86,7 +86,7 @@ This project demonstrates how Python, data analysis, visualization, and machine 
 **Amar Mayengbam**
 ## Key Results
 
-- Overall customer churn rate: **56.65%**
+- Overall customer churn rate: **60.25%**
 - Best performing model: **Logistic Regression**
 - Model accuracy: **57.25%**
 - ROC-AUC: **0.600**
